@@ -1,1 +1,2 @@
 # harian
+harian - daily
